@@ -10,7 +10,7 @@
 
 Setup your SSH Keys
 
-	[GitHub has a nice walkthrough](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+[GitHub has a nice walkthrough](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 Move to the directory you want to store the repo (example: ~/ or ~/Documents/ )
 
