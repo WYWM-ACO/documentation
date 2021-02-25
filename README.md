@@ -6,7 +6,7 @@
 
 ### Install Git
 
-'$ sudo apt-get install git -y'
+`$ sudo apt-get install git -y`
 
 Setup your SSH Keys
 
@@ -14,23 +14,23 @@ Setup your SSH Keys
 
 Move to the directory you want to store the repo (example: ~/ or ~/Documents/ )
 
-' $ cd ~/Documents'
+` $ cd ~/Documents`
 
 ### Clone repo
 
 
-'$ git clone git@github.com:WYWM-ACO/documentation.git'
+`$ git clone git@github.com:WYWM-ACO/documentation.git`
 
 ### Get updates
 
-'$ git pull'
+`$ git pull`
 
 ### Push your changes
-...
+```
 $ git add -a #adds all your changes to the commit
 $ git commit -m "this message tells us what you changed"
 $ git branch -M main
 $ git remote add origin git@github.com:WYWM-ACO/documentation.git
 $ git push -u origin main
-...
+```
 
